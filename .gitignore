@@ -29,3 +29,5 @@
 
 *.sdf
 *.pdb
+*.openpdb
+*.log
